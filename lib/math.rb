@@ -21,7 +21,3 @@ end
 def square_root(num)
   return (Math.sqrt(num))
 end
-
-require 'cmath' 
- x = CMath.sqrt(5) 
- puts x 
